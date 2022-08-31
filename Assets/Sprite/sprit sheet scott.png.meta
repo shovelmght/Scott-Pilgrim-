@@ -1,0 +1,2316 @@
+fileFormatVersion: 2
+guid: 9d72a308c482c484cb137823d579b388
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8088117727708958894
+    second: sprit sheet scott_0
+  - first:
+      213: -5775892830698048577
+    second: sprit sheet scott_1
+  - first:
+      213: -9195279320032832604
+    second: sprit sheet scott_2
+  - first:
+      213: -453877450380967155
+    second: sprit sheet scott_3
+  - first:
+      213: -4792878232875973494
+    second: sprit sheet scott_4
+  - first:
+      213: 3574928879530084324
+    second: sprit sheet scott_5
+  - first:
+      213: 7129002693606200681
+    second: sprit sheet scott_6
+  - first:
+      213: -742290121153255385
+    second: sprit sheet scott_7
+  - first:
+      213: 2752634753998161689
+    second: sprit sheet scott_8
+  - first:
+      213: 5006124449564614527
+    second: sprit sheet scott_9
+  - first:
+      213: 4522824969000617169
+    second: sprit sheet scott_10
+  - first:
+      213: 5020766913915316043
+    second: sprit sheet scott_11
+  - first:
+      213: 6977622609840237071
+    second: sprit sheet scott_12
+  - first:
+      213: 2460289918193920509
+    second: sprit sheet scott_13
+  - first:
+      213: -4111479324780521702
+    second: sprit sheet scott_14
+  - first:
+      213: -7596762549982971395
+    second: sprit sheet scott_15
+  - first:
+      213: 7104831370330048857
+    second: sprit sheet scott_16
+  - first:
+      213: -8568971736677050809
+    second: sprit sheet scott_17
+  - first:
+      213: -4717836605454121089
+    second: sprit sheet scott_18
+  - first:
+      213: 42089950875133912
+    second: sprit sheet scott_19
+  - first:
+      213: 7572604482154802716
+    second: sprit sheet scott_20
+  - first:
+      213: 3374156665797109644
+    second: sprit sheet scott_21
+  - first:
+      213: -4517775475911014517
+    second: sprit sheet scott_22
+  - first:
+      213: 9186637835686730001
+    second: sprit sheet scott_23
+  - first:
+      213: -3722704684146034432
+    second: sprit sheet scott_24
+  - first:
+      213: 1170309990150094316
+    second: sprit sheet scott_25
+  - first:
+      213: 7896920564163140169
+    second: sprit sheet scott_26
+  - first:
+      213: 777707875326283358
+    second: sprit sheet scott_27
+  - first:
+      213: -7542467283938002094
+    second: sprit sheet scott_28
+  - first:
+      213: 47473041766418480
+    second: sprit sheet scott_29
+  - first:
+      213: -364158288415079047
+    second: sprit sheet scott_30
+  - first:
+      213: 8502968432962787783
+    second: sprit sheet scott_31
+  - first:
+      213: 6149782023246010342
+    second: sprit sheet scott_32
+  - first:
+      213: -9104433549136157130
+    second: sprit sheet scott_33
+  - first:
+      213: 589214195302590819
+    second: sprit sheet scott_34
+  - first:
+      213: 7745863633555321011
+    second: sprit sheet scott_35
+  - first:
+      213: 1489117264651532796
+    second: sprit sheet scott_36
+  - first:
+      213: -3312061588587385468
+    second: sprit sheet scott_37
+  - first:
+      213: -8967245362279784033
+    second: sprit sheet scott_38
+  - first:
+      213: 6415000394036650809
+    second: sprit sheet scott_39
+  - first:
+      213: -1717729695620865029
+    second: sprit sheet scott_40
+  - first:
+      213: -2175882904233040009
+    second: sprit sheet scott_41
+  - first:
+      213: -1021681286190316021
+    second: sprit sheet scott_42
+  - first:
+      213: -2260168555822185454
+    second: sprit sheet scott_43
+  - first:
+      213: 652948463144812404
+    second: sprit sheet scott_44
+  - first:
+      213: 8694015452075745466
+    second: sprit sheet scott_45
+  - first:
+      213: 8400211731778919608
+    second: sprit sheet scott_46
+  - first:
+      213: -1813684805857032748
+    second: sprit sheet scott_47
+  - first:
+      213: 1290476357695240411
+    second: sprit sheet scott_48
+  - first:
+      213: 1071714023873224743
+    second: sprit sheet scott_49
+  - first:
+      213: 1012132694028086286
+    second: sprit sheet scott_50
+  - first:
+      213: -5152857274092585703
+    second: sprit sheet scott_51
+  - first:
+      213: 4359363470953438645
+    second: sprit sheet scott_52
+  - first:
+      213: 5681530516686811108
+    second: sprit sheet scott_53
+  - first:
+      213: -4439742249824540135
+    second: sprit sheet scott_54
+  - first:
+      213: 7100114060004539185
+    second: sprit sheet scott_55
+  - first:
+      213: 606184729694331674
+    second: sprit sheet scott_56
+  - first:
+      213: 7577236827338788943
+    second: sprit sheet scott_57
+  - first:
+      213: 7248791105212624604
+    second: sprit sheet scott_58
+  - first:
+      213: 6057947532159286137
+    second: sprit sheet scott_59
+  - first:
+      213: 3939140979612305189
+    second: sprit sheet scott_60
+  - first:
+      213: -1938077392198997994
+    second: sprit sheet scott_61
+  - first:
+      213: -118744727910297533
+    second: sprit sheet scott_62
+  - first:
+      213: -2088516234186551641
+    second: sprit sheet scott_63
+  - first:
+      213: -7907607563829922167
+    second: sprit sheet scott_64
+  - first:
+      213: 5801928255534693567
+    second: sprit sheet scott_65
+  - first:
+      213: 2933662428878849053
+    second: sprit sheet scott_66
+  - first:
+      213: -4005151490279834946
+    second: sprit sheet scott_67
+  - first:
+      213: 8457216784220118459
+    second: sprit sheet scott_68
+  - first:
+      213: -7364884613234331600
+    second: sprit sheet scott_69
+  - first:
+      213: 22737136658981866
+    second: sprit sheet scott_70
+  - first:
+      213: 7788345174701630337
+    second: sprit sheet scott_71
+  - first:
+      213: -8296248956059297047
+    second: sprit sheet scott_72
+  - first:
+      213: 680769074692126567
+    second: sprit sheet scott_73
+  - first:
+      213: -5548003033714359739
+    second: sprit sheet scott_74
+  - first:
+      213: -782701512546975727
+    second: sprit sheet scott_75
+  - first:
+      213: 1987844904259896742
+    second: sprit sheet scott_76
+  - first:
+      213: 6105309734023291386
+    second: sprit sheet scott_77
+  - first:
+      213: 7933526139275116867
+    second: sprit sheet scott_78
+  - first:
+      213: -3225175456935758275
+    second: sprit sheet scott_79
+  - first:
+      213: -8514839026285847840
+    second: sprit sheet scott_80
+  - first:
+      213: 9203452814605142412
+    second: sprit sheet scott_81
+  - first:
+      213: -3013973266981287362
+    second: sprit sheet scott_82
+  - first:
+      213: 1332380008354920897
+    second: sprit sheet scott_83
+  - first:
+      213: -7037802402845172457
+    second: sprit sheet scott_84
+  - first:
+      213: -5547216313549329955
+    second: sprit sheet scott_85
+  - first:
+      213: 4012451382795956065
+    second: sprit sheet scott_86
+  - first:
+      213: 4115512336325082062
+    second: sprit sheet scott_87
+  - first:
+      213: 4797658291384847877
+    second: sprit sheet scott_88
+  - first:
+      213: 7493113188751816714
+    second: sprit sheet scott_89
+  - first:
+      213: 5100782655303874376
+    second: sprit sheet scott_90
+  - first:
+      213: 1871569357542335377
+    second: sprit sheet scott_91
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sprit sheet scott_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 344
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25f2e5287cb31cf80800000000000000
+      internalID: -8088117727708958894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 342
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3748d8218e7dfa0800000000000000
+      internalID: -5775892830698048577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_2
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 342
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a392f65d2ec36080800000000000000
+      internalID: -9195279320032832604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_3
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 342
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d038b761dd083b9f0800000000000000
+      internalID: -453877450380967155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 281
+        width: 62
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84c9b514a64c7db0800000000000000
+      internalID: -4792878232875973494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 342
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e70da900e2bc9130800000000000000
+      internalID: 3574928879530084324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_6
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 342
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9655333cd2e4fe260800000000000000
+      internalID: 7129002693606200681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 342
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728e060511bd2b5f0800000000000000
+      internalID: -742290121153255385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_8
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 342
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 917847489b2533620800000000000000
+      internalID: 2752634753998161689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_9
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 342
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f52bdc9a3597540800000000000000
+      internalID: 5006124449564614527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_10
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 342
+        width: 43
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d48c8aa85d44ce30800000000000000
+      internalID: 4522824969000617169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_11
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 342
+        width: 53
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47e4f338e85da540800000000000000
+      internalID: 5020766913915316043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_12
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 342
+        width: 46
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ae24c6bce75d060800000000000000
+      internalID: 6977622609840237071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_13
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 283
+        width: 53
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df96c6a35a4b42220800000000000000
+      internalID: 2460289918193920509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_14
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 342
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a171811765711f6c0800000000000000
+      internalID: -4111479324780521702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_15
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 342
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9364dc5b0e29690800000000000000
+      internalID: -7596762549982971395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_16
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 342
+        width: 46
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95903910d7e699260800000000000000
+      internalID: 7104831370330048857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_17
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 281
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74690091b95e41980800000000000000
+      internalID: -8568971736677050809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_18
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 281
+        width: 37
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77829f7a90e68eb0800000000000000
+      internalID: -4717836605454121089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_19
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 281
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d7a68a5698859000800000000000000
+      internalID: 42089950875133912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_20
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 281
+        width: 40
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1e2e57b7ab471960800000000000000
+      internalID: 7572604482154802716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_21
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 281
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c876a594c9963de20800000000000000
+      internalID: 3374156665797109644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_22
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 281
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b874a5f0423ad41c0800000000000000
+      internalID: -4517775475911014517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_23
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 283
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 119554c407e7d7f70800000000000000
+      internalID: 9186637835686730001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_24
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 283
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009fac140db465cc0800000000000000
+      internalID: -3722704684146034432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_25
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 283
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cedbcf74cb6cd3010800000000000000
+      internalID: 1170309990150094316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_26
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 283
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94adb66d96f779d60800000000000000
+      internalID: 7896920564163140169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_27
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 283
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5ec8df2139faca00800000000000000
+      internalID: 777707875326283358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_28
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 281
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bbeda87f5c35790800000000000000
+      internalID: -7542467283938002094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_29
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 281
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03805eeda78a8a000800000000000000
+      internalID: 47473041766418480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 219
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975410157ff32faf0800000000000000
+      internalID: -364158288415079047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_31
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 219
+        width: 53
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c95b173dbc900670800000000000000
+      internalID: 8502968432962787783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_32
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 219
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e759adca2a685550800000000000000
+      internalID: 6149782023246010342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 219
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6362796aced86a180800000000000000
+      internalID: -9104433549136157130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_34
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 219
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 369e0a7503f4d2800800000000000000
+      internalID: 589214195302590819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_35
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 218
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b07ea47fe5de7b60800000000000000
+      internalID: 7745863633555321011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_36
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 217
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf9b47433486aa410800000000000000
+      internalID: 1489117264651532796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_37
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 215
+        width: 38
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d680288813902d0800000000000000
+      internalID: -3312061588587385468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_38
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 215
+        width: 39
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f916b8f7ad1fd8380800000000000000
+      internalID: -8967245362279784033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_39
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 215
+        width: 37
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 933ab88ced8a60950800000000000000
+      internalID: 6415000394036650809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_40
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 217
+        width: 37
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf3e06851f56928e0800000000000000
+      internalID: -1717729695620865029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_41
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 217
+        width: 39
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7772854e606bdc1e0800000000000000
+      internalID: -2175882904233040009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_42
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 217
+        width: 57
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0646f6884242d1f0800000000000000
+      internalID: -1021681286190316021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_43
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 217
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21406b16ca442a0e0800000000000000
+      internalID: -2260168555822185454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_44
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 217
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f3262fa2dbf0900800000000000000
+      internalID: 652948463144812404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_45
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 217
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab06bb4adf857a870800000000000000
+      internalID: 8694015452075745466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_46
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 145
+        width: 41
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc50c6501c839470800000000000000
+      internalID: 8400211731778919608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_47
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 145
+        width: 45
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d54e54474f74d6e0800000000000000
+      internalID: -1813684805857032748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_48
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 145
+        width: 41
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8f67bf861b8e110800000000000000
+      internalID: 1290476357695240411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_49
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 145
+        width: 30
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 720a4cdf93e7fde00800000000000000
+      internalID: 1071714023873224743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_50
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 145
+        width: 33
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0c6a1d9251db0e00800000000000000
+      internalID: 1012132694028086286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 145
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d7c673c9f5d78b0800000000000000
+      internalID: -5152857274092585703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_52
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 145
+        width: 33
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd5efcdaf19f7c30800000000000000
+      internalID: 4359363470953438645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_53
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 145
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efa8a327e9d8de40800000000000000
+      internalID: 5681530516686811108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_54
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 146
+        width: 42
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91a2ae052fdd262c0800000000000000
+      internalID: -4439742249824540135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_55
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 146
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13bb35b9e1ca88260800000000000000
+      internalID: 7100114060004539185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_56
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 147
+        width: 37
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1362b9ccc9996800800000000000000
+      internalID: 606184729694331674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_57
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 146
+        width: 35
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f405980afb0c72960800000000000000
+      internalID: 7577236827338788943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_58
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 145
+        width: 40
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdea53dba11e89460800000000000000
+      internalID: 7248791105212624604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_59
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 145
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bfe422f27221450800000000000000
+      internalID: 6057947532159286137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_60
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 145
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527c9f9b9d3aaa630800000000000000
+      internalID: 3939140979612305189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_61
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 145
+        width: 44
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61863c251e09a15e0800000000000000
+      internalID: -1938077392198997994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_62
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 145
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 340d4f19c422a5ef0800000000000000
+      internalID: -118744727910297533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_63
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 145
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae8ca9ec891403e0800000000000000
+      internalID: -2088516234186551641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_64
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 63
+        width: 59
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986b9b621d8824290800000000000000
+      internalID: -7907607563829922167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_65
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 63
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbc727b2207948050800000000000000
+      internalID: 5801928255534693567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_66
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 63
+        width: 70
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d14cb349f6676b820800000000000000
+      internalID: 2933662428878849053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_67
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 63
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba7e3690f7da68c0800000000000000
+      internalID: -4005151490279834946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_68
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 63
+        width: 50
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd59e36bd11e5570800000000000000
+      internalID: 8457216784220118459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_69
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 63
+        width: 65
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0307d60177caac990800000000000000
+      internalID: -7364884613234331600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_70
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 61
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3a4c92e47c05000800000000000000
+      internalID: 22737136658981866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_71
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 64
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183e7360ca2c51c60800000000000000
+      internalID: 7788345174701630337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_72
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 63
+        width: 105
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea51e5a78dcddc80800000000000000
+      internalID: -8296248956059297047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_73
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 62
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7677817ddd3927900800000000000000
+      internalID: 680769074692126567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_74
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 93
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5428aaaa2a88103b0800000000000000
+      internalID: -5548003033714359739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_75
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 62
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1100a7b0f194325f0800000000000000
+      internalID: -782701512546975727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_76
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 96
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a54bfa886e369b10800000000000000
+      internalID: 1987844904259896742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_77
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 76
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af161341bda6ab450800000000000000
+      internalID: 6105309734023291386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_78
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 87
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34105c37dfb891e60800000000000000
+      internalID: 7933526139275116867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_79
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 70
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3639077200ed33d0800000000000000
+      internalID: -3225175456935758275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_80
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 74
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ea5996e40735d980800000000000000
+      internalID: -8514839026285847840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 41
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89cb99a29b39bf70800000000000000
+      internalID: 9203452814605142412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_82
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 0
+        width: 47
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3a8e0b48473c26d0800000000000000
+      internalID: -3013973266981287362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_83
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 1
+        width: 47
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b3dfee809d7210800000000000000
+      internalID: 1332380008354920897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_84
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 0
+        width: 81
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71dd503a004b45e90800000000000000
+      internalID: -7037802402845172457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_85
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 1
+        width: 117
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9e3aa37245403b0800000000000000
+      internalID: -5547216313549329955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_86
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 2
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16fe31616471fa730800000000000000
+      internalID: 4012451382795956065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_87
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 3
+        width: 67
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecbf46b3aac3d1930800000000000000
+      internalID: 4115512336325082062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_88
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 4
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e83b30cc4b49240800000000000000
+      internalID: 4797658291384847877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_89
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 4
+        width: 43
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08b855beb2ecf760800000000000000
+      internalID: 7493113188751816714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_90
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 14
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8477cd5ccce99c640800000000000000
+      internalID: 5100782655303874376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: sprit sheet scott_91
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 12
+        width: 58
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19321d82a6629f910800000000000000
+      internalID: 1871569357542335377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

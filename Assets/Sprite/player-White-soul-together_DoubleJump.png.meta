@@ -1,0 +1,612 @@
+fileFormatVersion: 2
+guid: d9c28842ac44b3f48b423cf031231792
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -111470168107583997
+    second: player-White-soul-together_DoubleJump_0
+  - first:
+      213: 5754992252328585641
+    second: player-White-soul-together_DoubleJump_1
+  - first:
+      213: 4207936903352385305
+    second: player-White-soul-together_DoubleJump_2
+  - first:
+      213: -5951490925046660628
+    second: player-White-soul-together_DoubleJump_3
+  - first:
+      213: -7254118034344685805
+    second: player-White-soul-together_DoubleJump_4
+  - first:
+      213: 952615827693769072
+    second: player-White-soul-together_DoubleJump_5
+  - first:
+      213: 5688593138014244549
+    second: player-White-soul-together_DoubleJump_6
+  - first:
+      213: 5617598373431358431
+    second: player-White-soul-together_DoubleJump_7
+  - first:
+      213: -4224947851853293028
+    second: player-White-soul-together_DoubleJump_8
+  - first:
+      213: 694567447459849261
+    second: player-White-soul-together_DoubleJump_9
+  - first:
+      213: 1957648358661200138
+    second: player-White-soul-together_DoubleJump_10
+  - first:
+      213: -1003962233031623072
+    second: player-White-soul-together_DoubleJump_11
+  - first:
+      213: 7534576335543129208
+    second: player-White-soul-together_DoubleJump_12
+  - first:
+      213: -3494369939515070078
+    second: player-White-soul-together_DoubleJump_13
+  - first:
+      213: -3848810988275097370
+    second: player-White-soul-together_DoubleJump_14
+  - first:
+      213: 8011590167569821404
+    second: player-White-soul-together_DoubleJump_15
+  - first:
+      213: -1333478229565704027
+    second: player-White-soul-together_DoubleJump_16
+  - first:
+      213: -2373450190317217150
+    second: player-White-soul-together_DoubleJump_17
+  - first:
+      213: 1256803111427951756
+    second: player-White-soul-together_DoubleJump_18
+  - first:
+      213: -2604050369472098867
+    second: player-White-soul-together_DoubleJump_19
+  - first:
+      213: -6077518289649156962
+    second: player-White-soul-together_DoubleJump_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_0
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 133
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 306f4e2097af37ef0800000000000000
+      internalID: -111470168107583997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 133
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9ab2556f6dddf40800000000000000
+      internalID: 5754992252328585641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_2
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 133
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f7399a158956a30800000000000000
+      internalID: 4207936903352385305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 133
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce102a8398e086da0800000000000000
+      internalID: -5951490925046660628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_4
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 133
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31f412ce412345b90800000000000000
+      internalID: -7254118034344685805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_5
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 133
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0711a115c0f583d00800000000000000
+      internalID: 952615827693769072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_6
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 133
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce401fc151f1fe40800000000000000
+      internalID: 5688593138014244549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_7
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 134
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3303315f7b5fd40800000000000000
+      internalID: 5617598373431358431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_8
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 135
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a1cbf3058fd55c0800000000000000
+      internalID: -4224947851853293028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_9
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 135
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d24e46ad96993a900800000000000000
+      internalID: 694567447459849261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_10
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 71
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0990256fc6fa2b10800000000000000
+      internalID: 1957648358661200138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 70
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06efd341ba53112f0800000000000000
+      internalID: -1003962233031623072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_12
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 73
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874dc1dd141309860800000000000000
+      internalID: 7534576335543129208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_13
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 71
+        width: 30
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 289a661dd01818fc0800000000000000
+      internalID: -3494369939515070078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 74
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e02e3c4cc6469ac0800000000000000
+      internalID: -3848810988275097370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_15
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 72
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdee2086fc2ee2f60800000000000000
+      internalID: 8011590167569821404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_16
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 71
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a8f4038d988e7de0800000000000000
+      internalID: -1333478229565704027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_17
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 71
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28a1f0280afcf0fd0800000000000000
+      internalID: -2373450190317217150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_18
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 71
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cc44165cf017110800000000000000
+      internalID: 1256803111427951756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_19
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 69
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcd046e5cfd8cdbd0800000000000000
+      internalID: -2604050369472098867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player-White-soul-together_DoubleJump_20
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 5
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9cb58dc05158aba0800000000000000
+      internalID: -6077518289649156962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
